@@ -1,2 +1,2 @@
-# cloud-nirvana
-Cloud as a single executable with enterprise best practices as constraints 
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
